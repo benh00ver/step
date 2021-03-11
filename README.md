@@ -1,2 +1,2 @@
 # step
-Final Step Project, Archive app using JS, HTML, CSS and Python with Eel
+Final Step Project, Compression app using JS, HTML, CSS and Python with Eel
